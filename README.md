@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+
+[![MauricioCa07's GitHub | Stats](https://stats.quira.sh/MauricioCa07/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=MauricioCa07)
 <!--
 **MauricioCa07/MauricioCa07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
