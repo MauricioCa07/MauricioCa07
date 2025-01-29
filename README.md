@@ -2,6 +2,9 @@
 
 
 [![MauricioCa07's GitHub | Stats](https://stats.quira.sh/MauricioCa07/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=MauricioCa07)
+
+
+https://camo.githubusercontent.com/da7fa77ad3829478e843aaee9332603bc144bf108afe43c08afea905075588ab/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6b7269737469616e72706f267468656d653d6461726b2673686f775f69636f6e733d7472756526636f756e745f707269766174653d74727565
 <!--
 **MauricioCa07/MauricioCa07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
