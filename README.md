@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+---
+Welcome to my personal repository, Im so excited to show you all the most important projects that  have doone on my carrer, all those projets were just for educational purposes. 
 
 <p align="center">
   <a href="https://skillicons.dev">
