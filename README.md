@@ -1,17 +1,11 @@
 ## Hi there 👋
 ---
-Welcome to my personal repository, Im so excited to show you all the most important projects that  have doone on my carrer, all those projets were just for educational purposes. 
+Welcome to my personal repository! I'm so excited to show you all the most important projects I've worked on throughout my career.
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://stats.quira.sh/MauricioCa07/github?theme=dark" alt="MauricioCa07's GitHub Stats">
-  </a>
-</p>
+Here, you'll find many of the technologies and programming languages I've implemented, as well as the tools and frameworks I've used along the way.
 
 
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-  </a>
-</p>
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=MauricioCa07&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
+
+
