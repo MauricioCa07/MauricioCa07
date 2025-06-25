@@ -6,6 +6,3 @@ Here, you'll find many of the technologies and programming languages I've implem
 
 
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=MauricioCa07&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
-
-
